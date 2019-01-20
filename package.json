@@ -1,6 +1,6 @@
 {
   "name": "srothenburg1",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Personal npm card for Steven Rothenburger (@srothenburg1)",
   "main": "dist/card.js",
   "unpkg": "index.html",
